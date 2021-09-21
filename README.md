@@ -10,3 +10,5 @@ This is the restaurant bill calculator project done in python using tkinter
 #tkinter
 #time
 #random
+
+#you can calculate the price of food item, you can add extra food items, you can change the price list of food items in this project
